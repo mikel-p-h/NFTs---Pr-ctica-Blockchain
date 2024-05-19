@@ -1,0 +1,11 @@
+{
+  "name": "SagoToken MONKEY",
+  "description": "An image for the level monkey of SagoToken.",
+  "image": "https://github.com/mikel-p-h/NFTs---Pr-ctica-Blockchain/blob/main/SagoToken03.jpeg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Image"
+    }
+  ]
+}

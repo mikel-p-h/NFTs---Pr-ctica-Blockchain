@@ -1,0 +1,11 @@
+{
+  "name": "SagoToken MID",
+  "description": "An image for the level mid of SagoToken.",
+  "image": "https://github.com/mikel-p-h/NFTs---Pr-ctica-Blockchain/blob/main/SagoToken01.jpeg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Image"
+    }
+  ]
+}

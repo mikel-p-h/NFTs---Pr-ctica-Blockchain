@@ -1,0 +1,11 @@
+{
+  "name": "SagoToken HIGH",
+  "description": "An image for the level high of SagoToken.",
+  "image": "https://github.com/mikel-p-h/NFTs---Pr-ctica-Blockchain/blob/main/SagoToken02.jpeg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Image"
+    }
+  ]
+}
